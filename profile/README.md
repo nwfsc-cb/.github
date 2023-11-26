@@ -10,7 +10,7 @@ How to find repositories? 1) Click on repositories tab and search for a topic, 2
 
   - [Ecosystem Science](https://www.fisheries.noaa.gov/west-coast/science-data/ecosystem-science-pacific-northwest)
   - [Genetics and Evolution](https://www.fisheries.noaa.gov/west-coast/science-data/genetics-and-evolution-pacific-northwest)
-  - [Math Bio](https://www.fisheries.noaa.gov/west-coast/science-data/mathematical-biology-and-systems-monitoring-pacific-northwest): [Math Bio GitHub landing page](https://nwfsc-cb.github.io/nwfsc-math-bio/)
+  - [Math Bio](https://www.fisheries.noaa.gov/west-coast/science-data/mathematical-biology-and-systems-monitoring-pacific-northwest): [Math Bio GitHub landing page](https://nwfsc-cb.github.io/nwfsc-math-bio/) * [Math Bio GitHub team repositories](https://github.com/orgs/nwfsc-cb/teams/mathbio/repositories)
   - [NWFSC Data and Tools](https://www.fisheries.noaa.gov/west-coast/science-data/northwest-fisheries-science-center-data-products-and-tools)
 
 ## Disclaimer
