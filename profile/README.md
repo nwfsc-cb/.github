@@ -1,12 +1,13 @@
 ## NWFSC Conservation Biology Divison GitHub org
 
-This GitHub org is for members of the NWFSC Conservation Biology Division and their collaborators. 
+This GitHub org is for members of the [Northwest Fisheries Science Center (NWFSC) Conservation Biology Division](https://www.fisheries.noaa.gov/about/conservation-biology-division-northwest-fisheries-science-center) and their collaborators. 
 
 Admins: Eric Ward (eric.ward@noaa.gov) and Eli Holmes (eli.holmes@noaa.gov)
 
 <hr>
 
-[Northwest Fisheries Science Center (NWFSC) Conservation Biology Division](https://www.fisheries.noaa.gov/about/conservation-biology-division-northwest-fisheries-science-center)
+How to find repositories? 1) Click on repositories tab and search for a topic, 2) Click on the list of repositories associated with that program
+
   - [Ecosystem Science](https://www.fisheries.noaa.gov/west-coast/science-data/ecosystem-science-pacific-northwest)
   - [Genetics and Evolution](https://www.fisheries.noaa.gov/west-coast/science-data/genetics-and-evolution-pacific-northwest)
   - [Math Bio](https://www.fisheries.noaa.gov/west-coast/science-data/mathematical-biology-and-systems-monitoring-pacific-northwest): [Math Bio GitHub landing page](https://nwfsc-cb.github.io/nwfsc-math-bio/)
