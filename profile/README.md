@@ -9,7 +9,7 @@ Admins: Eric Ward (eric.ward@noaa.gov) and Eli Holmes (eli.holmes@noaa.gov)
 [Northwest Fisheries Science Center (NWFSC) Conservation Biology Division](https://www.fisheries.noaa.gov/about/conservation-biology-division-northwest-fisheries-science-center)
   - [Ecosystem Science](https://www.fisheries.noaa.gov/west-coast/science-data/ecosystem-science-pacific-northwest)
   - [Genetics and Evolution](https://www.fisheries.noaa.gov/west-coast/science-data/genetics-and-evolution-pacific-northwest)
-  - [Math Bio](https://www.fisheries.noaa.gov/west-coast/science-data/mathematical-biology-and-systems-monitoring-pacific-northwest) * [Math Bio packages](https://nwfsc-cb.github.io/nwfsc-math-bio/)
+  - [Math Bio](https://www.fisheries.noaa.gov/west-coast/science-data/mathematical-biology-and-systems-monitoring-pacific-northwest): [Math Bio GitHub landing page](https://nwfsc-cb.github.io/nwfsc-math-bio/)
   - [NWFSC Data and Tools](https://www.fisheries.noaa.gov/west-coast/science-data/northwest-fisheries-science-center-data-products-and-tools)
 
 ## Disclaimer
