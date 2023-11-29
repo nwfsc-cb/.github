@@ -2,7 +2,7 @@
 
 This GitHub org is for members of the [Northwest Fisheries Science Center (NWFSC) Conservation Biology Division](https://www.fisheries.noaa.gov/about/conservation-biology-division-northwest-fisheries-science-center) and their collaborators. 
 
-Admins: Eric Ward (eric.ward@noaa.gov) and Eli Holmes (eli.holmes@noaa.gov)
+Admins: [Eric Ward](https://github.com/ericward-noaa) and [Eli Holmes](https://github.com/eeholmes)
 
 <hr>
 
