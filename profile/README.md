@@ -1,4 +1,4 @@
-## NWFSC Conservation Biology Divison GitHub org
+## NWFSC Conservation Biology Divison GitHub organization
 
 This GitHub org is for members of the [Northwest Fisheries Science Center (NWFSC) Conservation Biology Division](https://www.fisheries.noaa.gov/about/conservation-biology-division-northwest-fisheries-science-center) and their collaborators. 
 
